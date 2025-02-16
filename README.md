@@ -1,4 +1,4 @@
-# AI-Meal-Tracker
+# Intelligent AI Meal Tracker - AI generated food logs from meal images 
 
 ## Description
 
